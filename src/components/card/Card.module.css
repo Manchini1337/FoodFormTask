@@ -1,0 +1,44 @@
+.container {
+    width: 45rem;
+    padding: 2rem;
+    align-self: stretch;
+}
+
+.card {
+    background-color: #e6f0ff;
+    width: 100%;
+    padding: 2.8rem;
+    border-radius: 1.2rem;
+    color: #000;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.cardItem {
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
+.detailItem {
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+}
+
+.detailItemKey {
+    font-weight: bold;
+    margin-right: 1rem;
+}
+
+.detailItemValue {
+    font-weight: 300;
+}
