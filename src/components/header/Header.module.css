@@ -1,0 +1,9 @@
+.header {
+    font-size: 2rem;
+    color: rgba(0,0,0,.75);
+    font-weight: 500;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    background-color: #fff;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+}
