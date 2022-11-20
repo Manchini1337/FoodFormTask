@@ -27,4 +27,4 @@ Open [http://127.0.0.1:5173/FoodFormTask/](http://127.0.0.1:5173/FoodFormTask/) 
 
 ### `npm run test`
 
-Launches the test runner. The addition of '--verbose' flag displays individual test results with the test suite hierarchy.
+Launches the test runner. The addition of '--verbose' flag inside the script command displays individual test results with the test suite hierarchy.
